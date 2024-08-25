@@ -20,7 +20,7 @@ with open(output_file, mode='w', newline='') as file:
         
         try:
             # Perform Google search and write results to the CSV file
-            for rank, result in enumerate(search(search_term, num_results=10), start=1):  # Adjust number of results if needed
+            for rank, result in enumerate(search(search_term, num_results=100), start=1):  # Adjust number of results if needed
                 writer.writerow([search_term, rank, result])
         except Exception as e:
             print(f"An error occurred while searching for '{search_term}': {e}")
