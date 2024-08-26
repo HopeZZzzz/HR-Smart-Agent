@@ -1,401 +1,91 @@
-Search Term,Rank,URL
-computer,1,https://en.wikipedia.org/wiki/Computer
-computer,2,https://computerhistory.org/
-computer,3,https://www.computer.org/
-computer,4,https://www.ibm.com/topics/computer-vision
-computer,5,https://www.digitalliteracyassessment.org/
-computer,6,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2
-computer,7,https://www.cs.princeton.edu/
-computer,8,https://internetcomputer.org/
-computer,9,https://www.consumerreports.org/electronics-computers/computers/?srsltid=AfmBOoppAuUdUERY10XmIjdQizXU2RHrwKGM3VrfEMD86xaR4wutZ6aP
-computer,10,https://news.mit.edu/2024/toward-code-breaking-quantum-computer-0823
-computer,11,https://obamawhitehouse.archives.gov/blog/2016/01/30/computer-science-all
-computer,12,https://frame.work/
-computer,13,https://computer.howstuffworks.com/
-computer,14,https://www.apple.com/
-computer,15,https://www.computer.org/csdl/magazine/co
-computer,16,https://csteachers.org/
-computer,17,https://www.bls.gov/ooh/computer-and-information-technology/computer-programmers.htm
-computer,18,https://www.dol.gov/agencies/whd/fact-sheets/17e-overtime-computer
-computer,19,https://www.justice.gov/jm/jm-9-48000-computer-fraud
-computer,20,https://www.techtarget.com/searchwindowsserver/definition/computer
-computer,21,https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-computer-vision
-computer,22,https://k12cs.org/
-computer,23,https://www.khanacademy.org/computing/computer-programming
-computer,24,https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-the-browser-and-computer-requirements-for-Instructure/ta-p/66
-computer,25,https://www.onsetcomp.com/?srsltid=AfmBOopjutJJB4wxGzx23nEXB1i3YHQuIvtUcN6upCrvLeTfF-hz62dA
-computer,26,https://www.exploringcs.org/
-computer,27,https://www.youtube.com/computerhistory
-computer,28,https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering
-computer,29,https://zoom.us/download
-computer,30,https://csrankings.org/
-computer,31,https://www.reddit.com/r/computers/
-computer,32,https://support.google.com/accounts/answer/32050?hl=en&co=GENIE.Platform%3DDesktop
-computer,33,https://csrc.nist.gov/
-computer,34,https://www.cs.usc.edu/
-computer,35,https://www.onetonline.org/link/summary/15-1251.00
-computer,36,https://www.oclc.org/en/home.html
-computer,37,https://world.casio.com/
-computer,38,https://scai.engineering.asu.edu/graduate-computer-science/
-computer,39,https://cpsc.yale.edu/welcome
-computer,40,https://www.csiweb.com/
-computer,41,https://computerscience.emory.edu/index.html
-computer,42,https://www.nationalacademies.org/cstb/computer-science-and-telecommunications-board
-computer,43,https://finance.yahoo.com/news/buy-super-micro-computer-stock-211500680.html
-computer,44,https://engineering.virginia.edu/department/computer-science
-computer,45,https://www.aao.org/eye-health/tips-prevention/computer-usage
-computer,46,https://www.computerlanguage.com/
-computer,47,https://www.asus.com/us/
-computer,48,https://cs.indiana.edu/index.html
-computer,49,https://www.lenovo.com/us/en/desktops/?srsltid=AfmBOoor9quN4Y5T6Nv_KFGFIGwkN8n36LoqOgBaoba7AiQo1iGjCJQs
-computer,50,https://www.ikea.com/us/en/cat/desks-computer-desks-20649/
-computer,51,https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm
-computer,52,https://www.computerworld.com/
-computer,53,https://www.csc.ncsu.edu/
-computer,54,https://www.cics.umass.edu/
-computer,55,https://www.cs.washington.edu/
-computer,56,https://www.csail.mit.edu/node/2873
-computer,57,https://www.energystar.gov/products/computers
-computer,58,https://www.apple.com/imac/
-computer,59,https://cap.mil/
-computer,60,https://cs.duke.edu/
-computer,61,https://www.microsoft.com/en-us/windows/view-all-devices
-computer,62,https://cse.engin.umich.edu/
-computer,63,https://www.bhphotovideo.com/c/browse/Computers-Solutions/ci/9581
-computer,64,https://csfirst.withgoogle.com/s/en/home
-computer,65,https://www.samsung.com/us/shop/all-deals/tablets-laptops-computers-deals/
-computer,66,https://www.costco.com/computers.html
-computer,67,https://www.staples.com/Laptops-Computers/cat_SC3
-computer,68,https://web.cs.dartmouth.edu/home
-computer,69,https://www.target.com/c/computers-office-electronics/-/N-5xtfc
-computer,70,https://www.computerscience.org/careers/computer-programmer/
-computer,71,https://www.ibm.com/topics/computer-vision
-computer,72,https://www.digitalliteracyassessment.org/
-computer,73,https://internetcomputer.org/
-computer,74,https://www.mtu.edu/cs/what/
-computer,75,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2
-computer,76,https://news.mit.edu/2024/toward-code-breaking-quantum-computer-0823
-computer,77,https://computer.howstuffworks.com/
-computer,78,https://www.apple.com/
-computer,79,https://obamawhitehouse.archives.gov/blog/2016/01/30/computer-science-all
-computer,80,https://frame.work/
-computer,81,https://csd.cmu.edu/
-computer,82,https://csteachers.org/
-computer,83,https://www.bls.gov/ooh/computer-and-information-technology/computer-programmers.htm
-computer,84,https://www.computer.org/csdl/magazine/co
-computer,85,https://www.dol.gov/agencies/whd/fact-sheets/17e-overtime-computer
-computer,86,https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-computer-vision
-computer,87,https://www.justice.gov/jm/jm-9-48000-computer-fraud
-computer,88,https://k12cs.org/
-computer,89,https://academic.oup.com/comjnl
-computer,90,https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-the-browser-and-computer-requirements-for-Instructure/ta-p/66
-computer,91,https://www.onsetcomp.com/?srsltid=AfmBOopZa1sU3p1qPw7IfxJxAPjqhwpFgbjEh5UvZ7oPCvoASX7X1TVL
-computer,92,https://pll.harvard.edu/course/cs50-introduction-computer-science
-computer,93,https://www.youtube.com/computerhistory
-computer,94,https://www.cs.stanford.edu/
-computer,95,https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering
-computer,96,https://cs.vt.edu/
-computer,97,https://support.google.com/accounts/answer/32050?hl=en&co=GENIE.Platform%3DDesktop
-computer,98,https://zoom.us/download
-computer,99,https://csrankings.org/
-computer,100,https://csrc.nist.gov/
-science,1,https://www.science.org/
-science,2,https://www.science.org/
-science,3,https://www.aaas.org/
-science,4,https://en.wikipedia.org/wiki/Science
-science,5,https://www.sciencenews.org/
-science,6,https://www.sciencedaily.com/
-science,7,https://sciencecouncil.org/about-science/our-definition-of-science/
-science,8,https://www.sciencedirect.com/
-science,9,https://science.nasa.gov/
-science,10,https://www.merriam-webster.com/dictionary/science
-science,11,https://www.sciencebuddies.org/
-science,12,https://www.nsf.gov/
-science,13,https://plos.org/
-science,14,https://www.energy.gov/science/office-science
-science,15,https://www.jstor.org/journal/science
-science,16,https://www.aaas.org/journals
-science,17,https://www.science.gov/
-science,18,https://www.sciencechannel.com/
-science,19,https://www.cos.io/
-science,20,https://www.sciencedirect.com/journal/science-of-the-total-environment
-science,21,https://www.livescience.com/
-science,22,https://www.forbes.com/science/
-science,23,https://www.pnas.org/
-science,24,https://jobs.sciencecareers.org/
-science,25,https://www.bbc.com/news/science_and_environment
-science,26,https://www.theatlantic.com/science/
-science,27,https://new.nsf.gov/od/honorary-awards/national-medal-of-science
-science,28,https://www.nextgenscience.org/content/home-page
-science,29,https://www.ssrn.com/
-science,30,https://www.reddit.com/r/science/
-science,31,https://www.pbs.org/newshour/science
-science,32,https://www.nationalgeographic.com/science
-science,33,https://www.scientificamerican.com/
-science,34,https://pubmed.ncbi.nlm.nih.gov/
-science,35,https://www.npr.org/sections/science/
-science,36,https://www.wired.com/category/science/
-science,37,https://nysci.org/
-science,38,https://carnegiescience.edu/
-science,39,https://www.act.org/content/act/en/products-and-services/the-act/test-preparation/science-practice-test-questions.html
-science,40,https://siebelschool.illinois.edu/
-science,41,https://www.nytimes.com/section/science
-science,42,https://science.mit.edu/
-science,43,https://www.unesco.org/en/open-science
-science,44,https://new.smm.org/
-science,45,https://scienceeurope.org/
-science,46,https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/webofscience-platform/
-science,47,https://www.washingtonpost.com/science/
-science,48,https://en.wikipedia.org/wiki/Science_(journal)
-science,49,https://www.moore.org/programs/science
-science,50,https://twitter.com/sciencemagazine?lang=en
-science,51,https://sciencecity.unionstation.org/
-science,52,https://www.nysed.gov/standards-instruction/science
-science,53,https://www.usgs.gov/
-science,54,https://undsci.berkeley.edu/understanding-science-101/what-is-science/
-science,55,https://www.azscience.org/
-science,56,https://carnegiesciencecenter.org/
-science,57,https://www.nasonline.org/
-science,58,https://pacificsciencecenter.org/
-science,59,https://www.nationalacademies.org/
-science,60,https://www.ndscs.edu/
-science,61,https://news.harvard.edu/gazette/section/science-technology/
-science,62,https://council.science/
-science,63,https://www.whitehouse.gov/ostp/
-science,64,https://www.frostscience.org/
-science,65,https://www.nature.com/
-science,66,https://www.calacademy.org/
-science,67,https://www.sciencejournalforkids.org/
-science,68,https://www.sciencecoalition.org/
-science,69,https://www.perotmuseum.org/
-science,70,https://www.slsc.org/
-science,71,https://royalsocietypublishing.org/journal/rsos
-science,72,https://www.purdue.edu/science/
-science,73,https://science.psu.edu/
-science,74,https://www.forwomeninscience.com/
-science,75,https://mjl.clarivate.com/home
-science,76,https://www.sciencemediacentre.org/
-science,77,https://issues.org/
-science,78,https://www.smithsonianmag.com/category/science-nature/
-science,79,https://omsi.edu/
-science,80,https://www.saic.com/
-science,81,https://science.house.gov/
-science,82,https://www.accessscience.com/
-science,83,https://www.societyforscience.org/
-science,84,https://www.dhs.gov/science-and-technology
-science,85,https://www.sciencea-z.com/
-science,86,https://arxiv.org/
-science,87,https://www.elsevier.com/
-science,88,https://wmo.int/publication-series/united-science
-science,89,https://www.harrisburgu.edu/
-science,90,https://www.iastate.edu/
-science,91,https://sciencebasedtargets.org/companies-taking-action
-science,92,https://www.digital-science.com/
-science,93,https://sciencebusiness.net/
-science,94,https://mosi.org/
-science,95,https://www.nyas.org/
-science,96,https://www.astc.org/membership/find-an-astc-member/passport/
-science,97,https://pubsonline.informs.org/journal/mnsc
-science,98,https://www.aaas.org/
-science,99,https://www.sciencedirect.com/
-science,100,https://www.livescience.com/
-adam smith,1,https://en.wikipedia.org/wiki/Adam_Smith
-adam smith,2,http://adamsmith.house.gov/
-adam smith,3,https://www.britannica.com/biography/Adam-Smith
-adam smith,4,https://iep.utm.edu/smith/
-adam smith,5,https://www.econlib.org/library/Enc/bios/Smith.html
-adam smith,6,https://www.adamsmith.org/about-adam-smith
-adam smith,7,https://www.investopedia.com/updates/adam-smith-economics/
-adam smith,8,https://oll.libertyfund.org/people/adam-smith
-adam smith,9,https://electadamsmith.com/
-adam smith,10,https://www.bbc.co.uk/history/historic_figures/smith_adam.shtml
-adam smith,11,http://adamsmith.house.gov/about/biography
-adam smith,12,https://plato.stanford.edu/entries/smith-moral-political/
-adam smith,13,https://www.congress.gov/member/adam-smith/S000510
-adam smith,14,https://www.panmurehouse.org/adam-smith/smith-quotes-faqs/
-adam smith,15,https://www.econlib.org/library/Smith/smWN.html
-adam smith,16,https://www.adamsmith.org/
-adam smith,17,https://www.gla.ac.uk/explore/adamsmith300/
-adam smith,18,https://www.adamsmithworks.org/
-adam smith,19,https://www.biography.com/scholars-educators/adam-smith
-adam smith,20,https://www.history.ox.ac.uk/people/professor-adam-smith
-adam smith,21,https://press.princeton.edu/books/hardcover/9780691203812/adam-smiths-america?srsltid=AfmBOorO4Dgpx9DhroQ1tppEQuQB-w95eCvOMGoDcAgbrdr_gw0tZLkT
-adam smith,22,https://www.cmu.edu/dietrich/sds/docs/loewenstein/AdamSmith.pdf
-adam smith,23,https://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1505577128
-adam smith,24,https://www.bu.edu/cs/profiles/adam-smith/
-adam smith,25,https://www.journals.uchicago.edu/doi/10.1086/691629
-adam smith,26,https://www.nrscotland.gov.uk/research/learning/hall-of-fame/hall-of-fame-a-z/smith-adam
-adam smith,27,https://www.mercatus.org/students/adam-smith-fellowship
-adam smith,28,https://msutoday.msu.edu/news/2024/ask-the-expert-adam-smiths-writings-help-us-understand-our-modern-economy
-adam smith,29,https://kslegislature.org/li/b2023_24/members/rep_smith_adam_1/
-adam smith,30,https://www.economicsobservatory.com/interview-jesse-norman
-adam smith,31,https://www.adamsmithtenor.com/
-adam smith,32,https://twitter.com/noneconomical
-adam smith,33,https://adamsmithesq.com/
-adam smith,34,https://www.essentialscholars.org/smith
-adam smith,35,https://www.panmurehouse.org/adam-smith/biography/family-and-childhood-1723-1737/
-adam smith,36,https://www.gibsondunn.com/lawyer/smith-adam-m/
-adam smith,37,https://www.goodreads.com/author/show/14424.Adam_Smith
-adam smith,38,https://oll.libertyfund.org/titles/smith-an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-cannan-ed-vol-1
-adam smith,39,https://freedom.fiu.edu/
-adam smith,40,https://www.gutenberg.org/files/3300/3300-h/3300-h.htm
-adam smith,41,https://www.investopedia.com/updates/adam-smith-wealth-of-nations/
-adam smith,42,https://adamsmithinternational.com/
-adam smith,43,https://www.britannica.com/biography/Adam-Smith/The-Wealth-of-Nations
-adam smith,44,https://www.jstor.org/stable/1823421
-adam smith,45,https://thedecisionlab.com/thinkers/economics/adam-smith
-adam smith,46,https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100512468
-adam smith,47,https://www.amazon.com/stores/author/B000APTFBA
-adam smith,48,https://www.aeaweb.org/articles?id=10.1257/089533005774357897
-adam smith,49,https://thegreatthinkers.org/smith/biography/
-adam smith,50,https://www.hetwebsite.net/het/profiles/smith.htm
-adam smith,51,https://www.kkr.com/about/our-people/adam-smith
-adam smith,52,https://smithsociety.org/
-adam smith,53,https://www.opensecrets.org/members-of-congress/adam-smith/summary?cid=N00007833
-adam smith,54,https://www.klgates.com/Adam-G-Smith
-adam smith,55,http://adamsmith.house.gov/contact
-adam smith,56,https://www.sup.org/books/title/?id=22158
-adam smith,57,https://press.princeton.edu/books/hardcover/9780691210834/adam-smith-reconsidered?srsltid=AfmBOophiLg9C8kVWw_LuLT61D3SZr1oKJhUzE9_ygto7qtoL1r0R4-e
-adam smith,58,https://www.hoover.org/research/profound-wisdom-and-humanitarianism-adam-smith
-adam smith,59,https://www.orrick.com/en/People/C/A/4/Adam-Smith
-adam smith,60,https://smithsonianassociates.org/ticketing/programs/adam-smiths-america
-adam smith,61,https://www.maxwell.syr.edu/research/article/adam-smith's-moral-philosophy-a-historical-and-contemporary-perspective-on-markets-law-ethics-and-culture
-adam smith,62,https://www.economicsobservatory.com/adam-smith-how-did-he-really-see-the-world-outside-his-window
-adam smith,63,https://www.adamsmithsociety.com/
-adam smith,64,https://www.worldhistory.org/Adam_Smith/
-adam smith,65,https://leadershipinstitute.org/AdamSmith/
-adam smith,66,https://en.wikiquote.org/wiki/Adam_Smith
-adam smith,67,https://twitter.com/repadamsmith?lang=en
-adam smith,68,https://www.aei.org/research-products/report/adam-smith-and-the-moral-case-for-markets/
-adam smith,69,https://www.gla.ac.uk/schools/business/
-adam smith,70,https://www.instagram.com/repadamsmith/?hl=en
-adam smith,71,https://www.scotlandswild.com/adam-smith
-adam smith,72,https://foreignpolicy.com/2023/02/19/adam-smith-america-book-review-glory-m-liu-politics-economics-capitalism-friedman/
-adam smith,73,https://anthropology.cornell.edu/adam-t-smith
-adam smith,74,https://www.chicagobooth.edu/review/adam-smiths-relevance-1976
-adam smith,75,https://www.cato.org/cato-university/home-study-course/module5
-adam smith,76,https://leading.business.columbia.edu/main-pillar-business-society/economy-policy/adam-smith-300-legacy
-adam smith,77,https://www.adamsmithworks.org/documents/otteson-brief-smith-bio
-adam smith,78,https://www.nationalgalleries.org/art-and-artists/3787/adam-smith-1723-1790-political-economist
-adam smith,79,https://www.anderson.ucla.edu/about/clubs-and-associations/interest/adam-smith-society-smithsoc
-adam smith,80,https://www.imdb.com/name/nm2553744/
-adam smith,81,https://viterbi.usc.edu/directory/faculty/Smith/Adam
-adam smith,82,https://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/
-adam smith,83,https://www.imf.org/en/News/Articles/2023/06/05/sp060523-fdmd-ai-adamsmith
-adam smith,84,https://www.oxfordreference.com/display/10.1093/acref/9780191843730.001.0001/q-oro-ed5-00010204
-adam smith,85,https://en.wikipedia.org/wiki/The_Wealth_of_Nations
-adam smith,86,https://thewaltdisneycompany.com/adam-smith-disney-chief-product-technology-officer-entertainment-espn/
-adam smith,87,https://pharmtox.ku.edu/lab/smith
-adam smith,88,https://adamsmithprogram.org/
-adam smith,89,https://www.routledge.com/The-Adam-Smith-Review/book-series/ASR?srsltid=AfmBOopqRS6_7YrneEnzDmmhV_r82ibIEg6WXNCXIXuzaD8joG0OA0_H
-adam smith,90,https://taubmancollege.umich.edu/faculty/directory/adam-smith/
-adam smith,91,https://www.cambridge.org/core/books/interpreting-adam-smith/80064E745C5A2CA38ED8F75E3E14523F
-adam smith,92,https://www.theatlantic.com/business/archive/2016/06/the-problem-with-inequality-according-to-adam-smith/486071/
-adam smith,93,https://histecon.fas.harvard.edu/climate-loss/smith/index.html
-adam smith,94,https://www.hollywoodreporter.com/lifestyle/lifestyle-news/billy-porter-husband-adam-smith-divorce-1235529724/
-adam smith,95,https://www.nber.org/system/files/working_papers/w20636/w20636.pdf
-adam smith,96,https://www.dorchestercollection.com/ascot/coworth-park/dining/woven-by-adam-smith
-adam smith,97,https://www.premierleague.com/players/3512/Adam-Smith/overview
-adam smith,98,https://www.cato.org/cato-university/home-study-course/module4
-adam smith,99,https://www.stlouisfed.org/education/economic-lowdown-podcast-series/episode-3-the-role-of-self-interest-and-competition-in-a-market-economy
-adam smith,100,https://www.youtube.com/watch?v=iZuoxKlKk7A
-abstract algebra,1,https://en.wikipedia.org/wiki/Abstract_algebra
-abstract algebra,2,https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf
-abstract algebra,3,http://abstract.ups.edu/
-abstract algebra,4,https://www.reddit.com/r/explainlikeimfive/comments/zmq26x/eli5_what_exactly_is_abstract_algebra/
-abstract algebra,5,https://www.amazon.com/Abstract-Algebra-3rd-David-Dummit/dp/0471433349
-abstract algebra,6,https://brilliant.org/wiki/abstract-algebra/
-abstract algebra,7,https://www.amazon.com/Abstract-Algebra-Geometric-Theodore-Shifrin/dp/0133198316
-abstract algebra,8,https://netmath.illinois.edu/college/math-417
-abstract algebra,9,https://open.umn.edu/opentextbooks/textbooks/217
-abstract algebra,10,http://matematicas.uis.edu.co/adrialba/sites/default/files/Abstract%20Algebra-PierreAGrillet.pdf
-abstract algebra,11,https://www.britannica.com/science/modern-algebra
-abstract algebra,12,https://www.wiley.com/en-us/Abstract+Algebra%2C+3rd+Edition-p-9780471433347
-abstract algebra,13,https://math.libretexts.org/Courses/Mount_Royal_University/MATH_2101_Abstract_Algebra_I
-abstract algebra,14,https://math.stackexchange.com/questions/565890/how-to-study-abstract-algebra
-abstract algebra,15,https://math.libretexts.org/Bookshelves/Abstract_and_Geometric_Algebra/An_Inquiry-Based_Approach_to_Abstract_Algebra_(Ernst)/01%3A_Introduction/1.01%3A_What_is_Abstract_Algebra
-abstract algebra,16,https://math.stackexchange.com/questions/2329542/intuitive-explanation-of-what-abstract-algebra-is-all-about
-abstract algebra,17,https://en.wikipedia.org/wiki/List_of_abstract_algebra_topics
-abstract algebra,18,https://www.sciencedirect.com/topics/mathematics/abstract-algebra
-abstract algebra,19,https://bookstore.ams.org/amstext-55/
-abstract algebra,20,https://www.routledge.com/Introduction-to-Abstract-Algebra/Smith/p/book/9781032921341?srsltid=AfmBOor2UuOtGOuub96sRjE3z-pyQY4upaOqfv_iTNJqWYNSdWbqxA_-
-abstract algebra,21,https://web.math.ucsb.edu/~padraic/ucsb_2014_15/math_gre_w2015/math_gre_w2015_lecture8.pdf
-abstract algebra,22,https://www-users.cse.umn.edu/~garrett/m/algebra/
-abstract algebra,23,https://link.springer.com/book/10.1007/978-3-319-77649-1
-abstract algebra,24,https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year1/ma136/
-abstract algebra,25,https://www.merriam-webster.com/dictionary/abstract%20algebra
-abstract algebra,26,https://en.wiktionary.org/wiki/abstract_algebra
-abstract algebra,27,https://www.une.edu.au/study/units/abstract-algebra-pmth332
-abstract algebra,28,https://www.cambridge.org/highereducation/books/abstract-algebra/4D15D994915F42BE1B85A2889B6E9409
-abstract algebra,29,https://www.socratica.com/pages/group-definition
-abstract algebra,30,https://www.math.purdue.edu/~iswanso/abstractalgebra.pdf
-abstract algebra,31,https://math.umd.edu/~jcohen/402/Pinter%20Algebra.pdf
-abstract algebra,32,https://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf
-abstract algebra,33,https://global.oup.com/academic/product/how-to-think-about-abstract-algebra-9780198843382
-abstract algebra,34,https://www.quora.com/How-can-I-self-study-abstract-algebra
-abstract algebra,35,https://www.mathed.page/abs-alg/index.html
-abstract algebra,36,https://byjus.com/maths/algebra/
-abstract algebra,37,https://www.press.jhu.edu/books/title/11060/introduction-abstract-algebra
-abstract algebra,38,https://www.su.se/english/search-courses-and-programmes/mm5020-1.412178
-abstract algebra,39,http://www.csun.edu/~asethura/GIAAFILES/GIAAMain.html
-abstract algebra,40,https://www.calstatela.edu/research/ashahee/math-5401-abstract-algebra-i
-abstract algebra,41,https://www.sydney.edu.au/units/MATH2022
-abstract algebra,42,https://study.com/academy/lesson/abstract-algebra-overview-applications.html
-abstract algebra,43,https://www.maths.tcd.ie/~dwilkins/Courses/311/
-abstract algebra,44,https://www.geeksforgeeks.org/abstract-algebra/
-abstract algebra,45,http://www-personal.umd.umich.edu/~adwiggin/TeachingFiles/AbstractAlgebra/Resources/guide.pdf
-abstract algebra,46,https://encyclopediaofmath.org/wiki/Abstract_algebra
-abstract algebra,47,https://www.coursera.org/courses?query=abstract%20algebra
-abstract algebra,48,https://www.albert.io/abstract-algebra
-abstract algebra,49,https://www.superprof.com/blog/abstract-algebra/
-abstract algebra,50,https://proofwiki.org/wiki/Definition:Field_(Abstract_Algebra)
-abstract algebra,51,https://mathworld.wolfram.com/AbstractAlgebra.html
-abstract algebra,52,https://www.math.ucdavis.edu/~anne/linear_algebra/
-abstract algebra,53,https://www.math.fsu.edu/~mesterto/AAI.html
-abstract algebra,54,https://abstract-algebra.readthedocs.io/
-abstract algebra,55,https://www.math.drexel.edu/~dp399/musicmath/algebraicmusictheory.html
-abstract algebra,56,https://www.udemy.com/course/abstract-algebra-group-theory-with-the-math-sorcerer/
-abstract algebra,57,https://www.vaia.com/en-us/textbooks/math/abstract-algebra-an-introduction-3rd/
-abstract algebra,58,https://my.uq.edu.au/programs-courses/course.html?course_code=MATH3303
-abstract algebra,59,https://www.metrostate.edu/academics/courses/math-471
-abstract algebra,60,http://www.csun.edu/~asethura/GIAAFILES/GIAAV2.0-T/GIAAV2.0-T.pdf
-abstract algebra,61,https://www.math.cuhk.edu.hk/course/math3030
-abstract algebra,62,https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5
-abstract algebra,63,https://math.gatech.edu/courses/math/4107
-abstract algebra,64,https://math.hawaii.edu/~lee/algebra/history.html
-abstract algebra,65,https://catalog.williams.edu/math/detail/?strm=&cn=355&crsid=011664&req_year=0
-abstract algebra,66,https://www.mymathscloud.com/api/download/modules/University/Textbooks/algebra-abstract/5)A%20First%20Course%20in%20Abstract%20Algebra%20Fraleigh%207th%20edition.pdf?id=25323176
-abstract algebra,67,https://math.osu.edu/courses/math-4580
-abstract algebra,68,https://uh.edu/nsm/math/undergraduate/courses/math3330/
-abstract algebra,69,https://www.quora.com/What-is-abstract-algebra
-abstract algebra,70,https://mathstat.uoguelph.ca/node/193
-abstract algebra,71,https://www.luc.edu/math/academics/courses/math313/
-abstract algebra,72,https://ucc.edu.gh/content/introduction-abstract-algebra
-abstract algebra,73,https://www.degruyter.com/document/doi/10.1515/9783110691160/html?lang=en
-abstract algebra,74,https://mdu.ac.in/UpFiles/UpPdfFiles/2021/Mar/4_03-02-2021_11-50-12_Abstract%20Algebra%20-%20Paper%20Code%20-%2020MAT21C1.pdf
-abstract algebra,75,https://www.math.stonybrook.edu/~irwin/algbk.pdf
-abstract algebra,76,https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095345871
-abstract algebra,77,https://www.cantorsparadise.com/what-is-a-field-in-abstract-algebra-1415ccaf9f8c
-abstract algebra,78,https://www.collinsdictionary.com/us/dictionary/english/abstract-algebra
-abstract algebra,79,https://www.sydney.edu.au/units/MATH2922
-abstract algebra,80,https://catalog.sjsu.edu/preview_course_nopop.php?catoid=10&coid=44178
-abstract algebra,81,https://www.booknofurther.com/book/9781032289397
-abstract algebra,82,https://www.cambridge.org/9781108836654
-abstract algebra,83,https://linear.pugetsound.edu/
-abstract algebra,84,https://www.math.clemson.edu/~macaule/classes/m20_math4120/
-abstract algebra,85,https://www.geeksforgeeks.org/real-life-applications-of-abstract-algebra/
-abstract algebra,86,https://mathoverflow.net/questions/23213/does-category-theory-help-understanding-abstract-algebra
-abstract algebra,87,http://homepage.math.uiowa.edu/~goodman/algebrabook.dir/algebrabook.html
-abstract algebra,88,https://link.springer.com/book/10.1007/978-0-387-71568-1
-abstract algebra,89,https://www.math.miami.edu/~ec/book/
-abstract algebra,90,https://en.wikibooks.org/wiki/Abstract_Algebra
-abstract algebra,91,https://bookstore.ams.org/view?ProductCode=AMSTEXT/9
-abstract algebra,92,https://www.tedsundstrom.com/abstract-algebra
-abstract algebra,93,https://www.routledge.com/Abstract-Algebra-A-First-Course/Lovett/p/book/9781032289410?srsltid=AfmBOorobX8USgguDZMrmRGnJdXOFccpHlv_NHITTNxRO8RFaxvEu1lj
-abstract algebra,94,https://netmath.illinois.edu/college/math-417
-abstract algebra,95,https://link.springer.com/book/10.1007/978-0-387-71568-1
-abstract algebra,96,http://abstract.ups.edu/aata/
-abstract algebra,97,https://www.wiley.com/en-us/Abstract+Algebra%2C+3rd+Edition-p-9780471433347
-abstract algebra,98,http://matematicas.uis.edu.co/adrialba/sites/default/files/Abstract%20Algebra-PierreAGrillet.pdf
-abstract algebra,99,https://math.stackexchange.com/questions/2329542/intuitive-explanation-of-what-abstract-algebra-is-all-about
-abstract algebra,100,https://www-users.cse.umn.edu/~garrett/m/algebra/
+Company Name,Title,Link,Snippet
+AstraZeneca,"Matt Gray - Executive Business Director, Marketing, Fasenra ...",https://www.linkedin.com/in/matt-gray-7028b26,"Executive Business Director, Fasenra Marketing, AstraZeneca · Experience: AstraZeneca · Education: Penn State University · Location: West Grove · 500+ ..."
+AstraZeneca,"James Whitehead on LinkedIn: Senior Director, Oncology Patient ...",https://rw.linkedin.com/posts/james-whitehead-89ba8222_senior-director-oncology-patient-safety-activity-6980839798525542400-eI1p,"Sep 28, 2022 ... I'm really excited to announce that AstraZeneca are building a Patient Safety Team in Barcelona. We are looking for a leader in ..."
+AstraZeneca,"AstraZeneca hiring Senior Director, Innovation in Care in ...",https://www.linkedin.com/jobs/view/senior-director-innovation-in-care-at-astrazeneca-3914144924,"AstraZeneca's vision in Oncology is to help patients by redefining the ... Corporate Partnerships Manager jobs. 50,354 open jobs · Strategy Director jobs."
+AstraZeneca,"AstraZeneca hiring Associate Director, Senior Patient Safety ...",https://www.linkedin.com/jobs/view/associate-director-senior-patient-safety-scientist-oncology-r-d-at-astrazeneca-3888862758,"Referrals increase your chances of interviewing at AstraZeneca by 2x. See who ... Food Service Manager jobs. 62,968 open jobs · Director of Quality jobs."
+AstraZeneca,"Ashley Moreland, PMP - Director of Training, Specialized Roles ...",https://www.linkedin.com/in/ashley-moreland-pmp-80763723,"Ashley Moreland, PMP. Director, Oncology Learning & Capabilities Development. AstraZeneca Hood College. Washington DC-Baltimore Area."
+AstraZeneca,157 Senior Director Of Biometrics jobs in United States (12 new),https://www.linkedin.com/jobs/senior-director-of-biometrics-jobs,"AstraZeneca. South San Francisco, CA. Be an early applicant. 3 days ago. Senior ... Executive Director, Biostatistics/Biometrics: Stable and Growing Pharma, ..."
+AstraZeneca,"Rick Beers - Executive Director, Sumitomo Pharma America inc ...",https://www.linkedin.com/in/rickbeers,Commercial Learning Leader ➤ Cross-Functional Collaboration – New Hire Training. AstraZeneca Pharmaceuticals. May 2007 - Jan 2012 4 years 9 months.
+AstraZeneca,105 Astrazeneca Senior Director jobs in United States (7 new),https://www.linkedin.com/jobs/astrazeneca-senior-director-jobs,"Senior Medical Director / Senior Director, Early Clinical Research Early R&I Clinical Development, Immunology / Rheumatology. AstraZeneca. Gaithersburg, MD."
+AstraZeneca,"Will Black - Director, Oncology Marketing, LYNPARZA - AstraZeneca",https://www.linkedin.com/in/will-black-03290625,"Director, Oncology Marketing, LYNPARZA · Experience: AstraZeneca · Location: Gaithersburg · 500+ connections on LinkedIn ... Senior Marketing Manager ..."
+AstraZeneca,Tim Ross - Director Engineering Procurement - AstraZeneca | LinkedIn,https://uk.linkedin.com/in/tim-ross-8b309b55,Director Engineering Procurement at AstraZeneca · Registered Architect ... Procurement Manager. AstraZeneca. Aug 2005 - Apr 2012 6 years 9 months. Lead ...
+Amgen,Scott M. - Head of Alliance Management - Senior Director - Atara ...,https://www.linkedin.com/in/scottmosier,Senior Manager - Business Development - Valuation. Amgen. Sep 2016 - Dec 2017 1 year 4 months. Thousand Oaks.
+Amgen,"Dr. Matthew Foster, DBA - Executive Director, Technology ...",https://www.linkedin.com/in/dr-matthew-foster-dba-80b9663,Passionate about cultivating positive change for the world in everything I do. Currently disruptive innovation management leader. · Experience: Amgen ...
+Amgen,55 Amgen Director Of Analytics jobs in United States (2 new),https://www.linkedin.com/jobs/amgen-director-of-analytics-jobs,"55 Amgen Director Of Analytics Jobs in United States (2 new) · CDnA - Senior Director, US Analytics · Executive Director, Rare Disease Insights · Executive ..."
+Amgen,Brian Jackson - Senior Region Director- Inflamation Division - Amgen,https://www.linkedin.com/in/brian-jackson-86578a15,"Senior Region Director- Dermatology Division at Amgen · An award-winning sales performer, I find the solution to ... Sales Manager Reconstruction Division."
+Amgen,"Suna Avcil, MD - Executive Medical Director Scientific ...",https://www.linkedin.com/in/suna-avcil-md-7a2b1a2b,"Executive Medical Director at Amgen · Pharmaceutical executive with a career spanning over two decades, driven by an unyielding passion for enhancing ..."
+Amgen,Kristen Elson - Executive Director - Amgen | LinkedIn,https://www.linkedin.com/in/kristen-elson-69011735,"Global Biosimilars Regulatory Affairs, Senior Manager, CMC. Amgen. May 2012 - Jul 2017 5 years 3 months. Thousand Oaks, ..."
+Amgen,Kelly Carter - Executive Director - Amgen | LinkedIn,https://www.linkedin.com/in/kelly-carter-executive,"Award-Winning Biopharmaceutical Executive | U.S. Launch Expert | Portfolio Management Leader · Throughout my 17-year career with Amgen, ..."
+Amgen,Monica Schlesinger - Executive Director Global Development ...,https://www.linkedin.com/in/monica-schlesinger-a344914,"Biopharma Strategic Planning, Business Operations and Performance Mgmt; Global Development Chief of Staff · Experience: Amgen · Location: Los Angeles ..."
+Amgen,"Julie Kim - Director, Technology Strategy & Innovation - Amgen ...",https://www.linkedin.com/in/julie-kim-236bb58,"Value-Based Partnerships, Senior Manager. Amgen. Nov 2018 - May 2020 1 year 7 months. Thousand Oaks, ..."
+Amgen,"David Piccin - Executive Director, Portfolio Management ...",https://www.linkedin.com/in/david-piccin-416a8611,"Executive Director, Portfolio Management at Amgen · Biopharma leader with industry and top-tier global strategy consulting firm experience, as well as a PhD ..."
+Vertex Pharmaceuticals,23 Vertex Pharmaceuticals Medical Director jobs in United States (2 ...,https://www.linkedin.com/jobs/vertex-pharmaceuticals-medical-director-jobs,"Senior Medical Director, Global Medical Lead - Medical Strategy -Cystic Fibrosis (CF). Vertex Pharmaceuticals. Boston, MA. Actively Hiring. 1 week ago."
+Vertex Pharmaceuticals,"Lauren Burgoyne - Senior Director, National Trade Accounts ...",https://www.linkedin.com/in/lauren-burgoyne-856b923,"Senior Director, Specialty Pharmacy Strategy & Account Management at Vertex Pharmaceuticals · Experience: Vertex Pharmaceuticals · Location: Suffolk County ..."
+Vertex Pharmaceuticals,61 Vertex Pharmaceuticals Senior Director jobs in United States (1 ...,https://www.linkedin.com/jobs/vertex-pharmaceuticals-senior-director-jobs,"... Vertex Pharmaceuticals Senior Director jobs added daily ... Executive Medical Director, Global Medical Lead-Pain. Vertex ..."
+Vertex Pharmaceuticals,Vertex Pharmaceuticals hiring Senior Director Medicinal Chemistry ...,https://www.linkedin.com/jobs/view/senior-director-medicinal-chemistry-at-vertex-pharmaceuticals-3854859880,"Vertex Pharmaceuticals Boston, MA. 4 weeks ago Be among the first 25 applicants. See who Vertex Pharmaceuticals has hired for this role. No longer accepting ..."
+Vertex Pharmaceuticals,"Vertex Pharmaceuticals hiring Senior Director, Real World Evidence ...",https://www.linkedin.com/jobs/view/senior-director-real-world-evidence-at-vertex-pharmaceuticals-3944649811,"Senior Director, Real World Evidence. Vertex Pharmaceuticals Boston, MA. 1 week ago 68 applicants."
+Vertex Pharmaceuticals,"Daniel Baxter - Senior Director, Global Facilities Engineering and ...",https://www.linkedin.com/in/beartu,"Senior Director, Global Facilities Engineering and Capital Project Management at Vertex Pharmaceuticals · Experience: Vertex Pharmaceuticals · Location: ..."
+Vertex Pharmaceuticals,"Kerry Jodkin - Associate National Account Director, Specialty ...",https://www.linkedin.com/in/kerry-jodkin-3a061923,"Associate National Account Director, Specialty Pharmacy · Experience: Vertex Pharmaceuticals · Education: University of Pittsburgh · Location: Pittsburgh ..."
+Vertex Pharmaceuticals,"Karen McCarthy Schau - Senior Director, Clinical Data Management ...",https://www.linkedin.com/in/karen-mccarthy-schau-28134826,"Senior Director, Clinical Data Management at Vertex Pharmaceuticals · Clinical Research/Clinical Management Professional with 25+ years diversified ..."
+Vertex Pharmaceuticals,"Vertex Pharmaceuticals hiring Senior Director, Digital Medical ...",https://www.linkedin.com/jobs/view/senior-director-digital-medical-affairs-and-analytics-hybrid-at-vertex-pharmaceuticals-3916467485,"Senior Director, Digital Medical Affairs and Analytics (Hybrid). Vertex Pharmaceuticals Boston, MA. Just now 162 applicants. See ..."
+Vertex Pharmaceuticals,Vertex Pharmaceuticals on LinkedIn: Congratulations to Executive ...,https://www.linkedin.com/posts/vertex-pharmaceuticals_congratulations-to-executive-director-bethany-activity-7194039153821470721-9_GD,"May 8, 2024 ... Vertex Pharmaceuticals' Post ... Congratulations to Executive Director Bethany Rossi for being recognized with the Rising HR Star award by the ..."
+Eli Lily,"Marybeth Howlett - Senior Director, Advocacy & Professional ...",https://www.linkedin.com/in/marybeth-howlett-97156775,Experience: Eli Lily & Co · Education: Yale University · Location: {:currentLocation} · 37 connections on LinkedIn. View Marybeth Howlett's profile on ...
+Eli Lily,Mark Heiman - Director of Research - Eli Lilly and Company | LinkedIn,https://www.linkedin.com/in/mark-heiman-90449657,Director of Research at Eli Lily · Experience: Eli Lilly and Company · Location: Metairie · 16 connections on LinkedIn. View Mark Heiman's profile on ...
+Eli Lily,Holly Mortlock - Director of Global Mfg. L & D - Eli Lilly & co. | LinkedIn,https://www.linkedin.com/in/holly-mortlock-2230287,Eli Lily & Company. 1998 - Jun 2013 15 years. Director of l & D. Eli Lilly & Co. 1998 - 2011 13 years. Learning and Development consultant. Dow Chemical. Oct ...
+Eli Lily,Brad Holmes - Associate Director- Clinical Laboratory Operations ...,https://www.linkedin.com/in/brad-holmes-558b0064,Associate Director- Clinical Laboratory Operations- Biomedicines · Experience: Eli Lilly and Company · Education: Indiana Wesleyan University · Location: ...
+Eli Lily,Rob Sparks - Executive Director - Corporation For Economic ...,https://www.linkedin.com/in/rob-sparks-531b86b,"Executive Director Madison County Economic Development Anderson/Madison County Indiana · -Managed retail, political campaigns, small business owner, ..."
+Eli Lily,Danielle French - Associate Director - Clinical Development and ...,https://www.linkedin.com/in/danielle-french-a1941522,Associate Director - Clinical Trial Supply Management at Eli Lilly and Company · Experience: Eli Lilly and Company · Education: Indiana University Kokomo ...
+Eli Lily,Morgan Kuehnle - Senior Director of Venue & Game Operations ...,https://www.linkedin.com/in/morgankuehnle,"Activities and Societies: Center for Women's Entreprenuerial Leadership Scholarship Program, Babson Women's Rugby (Vice President)."
+Eli Lily,FANNY VERSPEELT - Associate Director European Government ...,https://be.linkedin.com/in/fanny-verspeelt-26a767a,"Eli Lily and company. Jan 2013 - Feb 2014 1 year 2 months. Brussels Area, Belgium. Sales and marketing responsible for Unit Cardiovascular and Bone at Eli ..."
+Eli Lily,Mark C. Jacob - Vice President - Capital Programs & Engineering ...,https://www.linkedin.com/in/mark-c-jacob-834129a,"All major, water, and wastewater capital and engineering programs including Combined Sewer Overflow Consent Decree. Citizens Energy Group Graphic. Director ..."
+Eli Lily,Hina H. on LinkedIn: Prime Therapeutics announces Mostafa Kamal ...,https://www.linkedin.com/posts/hinahemani_prime-therapeutics-announces-mostafa-kamal-activity-7052715687642894336-Vbp4,"Apr 14, 2023 ... Wow, now members can get their medications through Eli Lily Direct… …see more. CNBC Television. 2.69M subscribers. Eli Lilly launches online ..."
+Novo Nordisk,12 Novo Nordisk Scientific Director jobs in United States,https://www.linkedin.com/jobs/novo-nordisk-scientific-director-jobs,"Medical Liaison - Rare Bleeding Disorders - Field Based - ND, SD, KS, MN, IA, MO, NE. Novo Nordisk. St Louis, MO. Be an early applicant. 4 days ago."
+Novo Nordisk,Alfred Spormann - Founding Director - Novo Nordisk Foundation ...,https://www.linkedin.com/in/alfred-spormann-805a2154,Founding Director at Novo Nordisk Foundation CO2 Research Center and Professor at Stanford University · Experience: Novo Nordisk Foundation CO2 Research ...
+Novo Nordisk,"Christine Schnorrbusch, PMP - Director - Novo Nordisk | LinkedIn",https://www.linkedin.com/in/christine-schnorrbusch-pmp-09aa153,"Director Trial Management, Novo Nordisk · Experience: Novo Nordisk · Education: PMI · Location: Jackson Township · 500+ connections on LinkedIn."
+Novo Nordisk,Novo Nordisk Foundation on LinkedIn: Programme Director ...,https://www.linkedin.com/posts/novo-nordisk-foundation_programme-director-humanitarian-area-novo-activity-7178341477360492546-4crZ,"Mar 26, 2024 ... Novo Nordisk Foundation's Post ... Do you want to join a truly purpose-driven organisation and department? Are you motivated by contributing to ..."
+Novo Nordisk,Novo Nordisk hiring Director - Demand Forecasting in Plainsboro ...,https://www.linkedin.com/jobs/view/director-demand-forecasting-at-novo-nordisk-3908957155,"Our focus on innovation ensures we're constantly building future capabilities. ... At Novo Nordisk, you will have the opportunity to build a life-changing career ..."
+Novo Nordisk,"Erin Gilligan - Senior Director, Enterprise Communications - Novo ...",https://www.linkedin.com/in/erin-gilligan,"Senior Director, Enterprise Communications at Novo Nordisk · Experience: Novo Nordisk · Education: University of Maryland College Park · Location: New York ..."
+Novo Nordisk,"Dan Pinto - Director, Patient Experience - Novo Nordisk | LinkedIn",https://www.linkedin.com/in/dan-pinto-10a1505,Consumer Strategy Lead at Novo Nordisk · Experience: Novo Nordisk · Location: Allenwood · 500+ connections on LinkedIn. View Dan Pinto's profile on LinkedIn ...
+Novo Nordisk,Leonardo Costa Siqueira - Corporate Vice President - Novo Nordisk ...,https://www.linkedin.com/in/leonardo-costa-siqueira-26325029,Corporate Vice President at Novo Nordisk · As the Corporate Vice President of Novo Nordisk's first Active Pharmaceutical Ingredient (API) manufacturing ...
+Novo Nordisk,"Susan Gilbert-Miller, Ph.D., Attorney - Director, U.S. Corporate ...",https://www.linkedin.com/in/susangilbertmiller,"Director, U.S. Corporate Sustainability. Novo Nordisk. Sep 2023 ; Vice President of Sustainability. U.S. Venture, Inc. Aug 2021 ; Director, Sustainability Impacts."
+Novo Nordisk,23 Novo Nordisk Vice President jobs in United States (3 new),https://www.linkedin.com/jobs/novo-nordisk-vice-president-jobs,"Executive Director - Market Access Value Communication and Contract Strategy. Novo Nordisk. Plainsboro, NJ. Actively Hiring. 1 week ago."
+Johnson & Johnson,How a President at Johnson & Johnson got Started by Selling ...,https://www.linkedin.com/pulse/how-president-johnson-got-started-selling-candy-high-school-rodic,"Nov 6, 2016 ... Vineet Mehra, Global President (Baby Care) a Johnson & Johnson. How a President at Johnson & Johnson got Started by Selling Candy in High School."
+Johnson & Johnson,"Abby V Reiner - Director, J&J MedTech Corporate Social ...",https://www.linkedin.com/in/abbyreiner,"Abby V Reiner. Marketing, Brand, Culture, Social Impact - let's do this. Johnson & Johnson MedTech Arizona State University ..."
+Johnson & Johnson,"Vanessa Broadhurst - Executive Vice President, Global Corporate ...",https://www.linkedin.com/in/vanessabroadhurst,Experience: Johnson & Johnson · Education: University of Michigan - Stephen M. Ross School of Business · Location: New York City Metropolitan Area · 500+ ...
+Johnson & Johnson,Mark Hicken - Managing Director (SVP) - Johnson & Johnson ...,https://uk.linkedin.com/in/mark-hicken,... Johnson & Johnson Innovative Medicine · Education: The University of Manchester · Location: United Kingdom · 193 connections on LinkedIn. View Mark Hicken's ...
+Johnson & Johnson,"Derrick Holmes - Director of Strategic Accounts, Rocky Mountain ...",https://www.linkedin.com/in/derrick-holmes-a17488b,"Director of Strategic Accounts, Johnson & Johnson · I have extensive experience in the pharmaceutical industry. I help patients get access to a portfolio of ..."
+Johnson & Johnson,"Linda Martens - Director, State Government Affairs - Johnson ...",https://www.linkedin.com/in/lindamartens,Linda Martens. Relationship Builder l Communicator l Stakeholder Engagement l Public Affairs and Government Relations Leader. Johnson & Johnson Bowling Green ...
+Johnson & Johnson,Metrics and Mentorship: A Powerful Combination By: Michael Bzdak ...,https://www.linkedin.com/pulse/metrics-mentorship-powerful-combination-michael-bzdak-michael-bzdak,"Oct 11, 2018 ... Victor, one of my mentees through Bridge to Employment, a Johnson & Johnson worldwide high school mentoring program, struggled academically when ..."
+Johnson & Johnson,Amanda Harris - Director of Learning and Development Oncology ...,https://www.linkedin.com/in/amandafharris,"Amanda Harris. Passionate and Empathetic L&D Leader. Johnson & Johnson Innovative Medicine University of California, Los Angeles ..."
+Johnson & Johnson,"Reena Patel - Director, Strategy & New Business Development ...",https://www.linkedin.com/in/reena-patel-717993,"Reena Patel. Johnson & Johnson NYU Stern School of Business. Philadelphia, Pennsylvania, United States."
+Johnson & Johnson,"Biren Mehta - Vice President, Venture Investments - Johnson ...",https://www.linkedin.com/in/biren-mehta-2697a81,"Senior Director, Business Development, Cardiovascular and Specialty Solutions Group (CSS). Johnson & Johnson. Apr 2015 - Feb 2016 11 months. Orange County, ..."
+Roche,24 Roche Diagnostics Director jobs in United States (3 new),https://www.linkedin.com/jobs/roche-diagnostics-director-jobs,"24 Roche Diagnostics Director Jobs in United States (3 new) · Director, Software Development and Architecture · Vice President, P&C Business Partner, Diagnostics ..."
+Roche,Art Roche - Director of Creative Services - University of Georgia ...,https://www.linkedin.com/in/artroche,"Sterling Publishing July 5, 2011. Any child who can make a stick figure can learn to draw funny cartoons! Cartoonist and creative director Art Roche gives kids ..."
+Roche,Darren Roche - President / Founder - Cerebral Eye Production ...,https://www.linkedin.com/in/darren-roche-8888b167,"Written, drawn, letter, Layouts, and Covers by Darren Roche. Fantastic Colors done by Juan Ignacio Velen Gaitan. debuted at the Boston Comic Con 2014. Future ..."
+Roche,Daniel Roche - Assistant Director & Camera Operator - Boiler Room ...,https://www.linkedin.com/in/daniel-roche-876570184,"Daniel Roche. Livestream Technical Director, vMix Operator, Camera Operator, Photographer. Boiler Room Full Sail University. Queens, New York ..."
+Roche,Jack Riley - Director of Marketing & Innovation - Roche Harbor ...,https://www.linkedin.com/in/jack-riley,Marketing & Innovation at Roche Harbor Resort · Experience: Roche Harbor Resort · Education: University of Puget Sound · Location: Friday Harbor · 500+ ...
+Roche,Matthew Roche - Managing Director - Alvarez & Marsal | LinkedIn,https://www.linkedin.com/in/matthew-roche-177a194,"... Roche's profile on LinkedIn, a professional community of 1 billion members ... Matthew Roche. Managing Director, Tax Technology - Alvarez & Marsal. Alvarez ..."
+Roche,Dominic Roche - Director - Pronto Cocktails | LinkedIn,https://uk.linkedin.com/in/dominic-roche-aa659179,Dominic Roche. Director at Pronto Cocktails & Exquisite Cocktails. Pronto Cocktails University of Leeds. Greater Oxford Area. 711 followers 500+ ...
+Roche,Terrence Roche - Vice President - Start Early | LinkedIn,https://www.linkedin.com/in/terrenceroche,"Terrence Roche. Vice President at Start Early. Start Early Northwestern University. Chicago, Illinois, United States. 2K followers 500+ ..."
+Roche,Diann Roche - President/Managing Director - Accordion Business ...,https://www.linkedin.com/in/diann-roche-008ba6a,"... Roche's profile on LinkedIn, a professional community of 1 billion members ... Diann Roche. Committed to positive client outcomes and having fun doing it ..."
+Roche,Rob Roche - Area Director of Leisure Sales - Auberge Resorts ...,https://www.linkedin.com/in/robroche,Rob Roche. Area Director of Leisure Sales at Auberge Resorts Collection. Auberge Resorts Collection. Los Angeles Metropolitan Area. 2K followers 500+ ...
+Pfizer,My reflections: one year on as Pfizer's Africa and Middle East ...,https://www.linkedin.com/pulse/my-reflections-one-year-pfizers-africa-middle-east-van-der-loo,"Feb 1, 2022 ... It's been a little over a year since I transitioned into my role as Pfizer's Africa and Middle East President and moved to Dubai, ..."
+Pfizer,Katrina Johnson - US Director - Pfizer,https://www.linkedin.com/in/katrina-johnson-3b861a30,"US Director - Advocacy and Professional Relations, Pfizer Oncology · Authenticity. I approach my business the same way I approach my personal life, ..."
+Pfizer,Michael Homer - National Sales Director - Pfizer | LinkedIn,https://www.linkedin.com/in/michael-homer-6a084a3,National Sales Director at Pfizer · I have worked in the industry for over 17 years. I was a sales representative with the Trade Sector of Ross Products ...
+Pfizer,"Wendy Ray - Senior Director, Colleague Communications ...",https://www.linkedin.com/in/wendyvinsonray,Colleague Communications & Engagement at Pfizer · I am an Executive Communications and Business Operations Director with more than 20 years' experience as a ...
+Pfizer,151 Associate Director Pfizer jobs in United States (16 new),https://www.linkedin.com/jobs/associate-director-pfizer-jobs,"Oncology Late-Stage Clinical Scientist (non-MD, Senior Manager). Pfizer. New York, NY. Be an early applicant. 5 days ago."
+Pfizer,"Niesha Foster - Vice President, Global Health & Social Impact - Pfizer",https://www.linkedin.com/in/niesha-n-foster,"Senior Director, Corporate Affairs. Pfizer. Mar 2010 - Jul 2012 2 years 5 months. New York, ..."
+Pfizer,Karina Miller - Marketing Director - Pfizer | LinkedIn,https://www.linkedin.com/in/karinaemiller,"Marketing Director · Experience: Pfizer · Location: New York City Metropolitan Area · 300 connections on LinkedIn. View Karina Miller's profile on LinkedIn, ..."
+Pfizer,Finding Life After The Blue Pill - From a Former Pfizer Director,https://www.linkedin.com/pulse/finding-life-after-blue-pill-from-former-pfizer-director-chu,"Aug 27, 2021 ... To my former #Pfizer PFamily Team 1 colleagues displaced by Bold Moves 3.3: This was a tough week but be confident in yourself and the ..."
+Pfizer,"Nabeel Anwar - Vice President, Transfer Pricing - Pfizer | LinkedIn",https://www.linkedin.com/in/nabeelanwar,"Experience: Pfizer · Location: New York · 500+ connections on LinkedIn. View Nabeel Anwar's profile on LinkedIn, a professional community of 1 billion ..."
+Pfizer,"TJ McDermott - Director, Social Media - Pfizer | LinkedIn",https://www.linkedin.com/in/tjmcdermott28,"Social Media Performance Marketer · Experience: Pfizer · Location: Westwood · 500+ connections on LinkedIn. View TJ McDermott's profile on LinkedIn, ..."
+Daiichi Sankyo,"Yusuf G. - Executive Director - Daiichi Sankyo, Inc. | LinkedIn",https://www.linkedin.com/in/yusuf-g-26a3272,"Yusuf G. Executive Director, Global Clinical Operations & Planning. Daiichi Sankyo, Inc. Syracuse University ..."
+Daiichi Sankyo,"Lori Mouser - Sr. Director, Global Head of Oncology Scientific ...",https://www.linkedin.com/in/lori-mouser-b3485225,"Lori Mouser. Advancing science to improve patient care by fostering collaboration and providing strategic leadership. Daiichi Sankyo, Inc. Medical College of ..."
+Daiichi Sankyo,"Daiichi Sankyo US hiring Director, Strategic Initiatives & Global ...",https://www.linkedin.com/jobs/view/director-strategic-initiatives-global-project-management-at-daiichi-sankyo-us-3850882487,"Director, Strategic Initiatives & Global Project Management. Daiichi Sankyo US Basking Ridge, NJ. Just now Over 200 applicants. See who Daiichi Sankyo US has ..."
+Daiichi Sankyo,"Jana Doyle - Associate Director - Daiichi Sankyo, Inc. | LinkedIn",https://www.linkedin.com/in/jana-doyle-425124b6,"Associate Director at Daiichi Sankyo, Inc. · Experience: Daiichi Sankyo, Inc. · Education: University of Phoenix · Location: Hamburg · 500+ connections on ..."
+Daiichi Sankyo,91 Daiichi Sankyo Vice President jobs in United States (7 new),https://www.linkedin.com/jobs/daiichi-sankyo-vice-president-jobs,"Sr Director, Global Project Management & Leadership. Daiichi Sankyo US. Basking Ridge, NJ. Actively Hiring. 6 days ago."
+Daiichi Sankyo,"Daiichi Sankyo US hiring Director, State Government Affairs in ...",https://www.linkedin.com/jobs/view/director-state-government-affairs-at-daiichi-sankyo-us-3943265108,Posted 9:06:18 AM. Join a Legacy of Innovation 110 Years and Counting!Daiichi Sankyo Group is dedicated to the…See this and similar jobs on LinkedIn.
+Daiichi Sankyo,"Yong Lu - Executive Director - Daiichi Sankyo, Inc. | LinkedIn",https://www.linkedin.com/in/yong-lu-b8749824,"Executive Director, Head of Statistical Programming at Daiichi Sankyo, Inc. · Experience: Daiichi Sankyo, Inc. · Education: University of Illinois at ..."
+Daiichi Sankyo,"Daiichi Sankyo US hiring Director, Companion Diagnostics Leader ...",https://www.linkedin.com/jobs/view/director-companion-diagnostics-leader-at-daiichi-sankyo-us-3850658237,Posted 9:07:45 AM. Join a Legacy of Innovation 110 Years and Counting!Daiichi Sankyo Group is dedicated to the…See this and similar jobs on LinkedIn.
+Daiichi Sankyo,"Fussy Tracy - National Sales Director, Oncology Lung - Daiichi ...",https://www.linkedin.com/in/fussy-tracy-819b4510,"National Sales Director, Oncology Lung at Daiichi Sankyo, Inc. · Sales leader in the biotech and pharmaceutical industry with 25 years experience across all ..."
+Daiichi Sankyo,"Daiichi Sankyo US hiring Director, Public Policy in Basking Ridge ...",https://www.linkedin.com/jobs/view/director-public-policy-at-daiichi-sankyo-us-3943263455,Posted 11:06:59 AM. Join a Legacy of Innovation 110 Years and Counting!Daiichi Sankyo Group is dedicated to the…See this and similar jobs on LinkedIn.
