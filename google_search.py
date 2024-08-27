@@ -2,8 +2,8 @@ import csv
 import requests
 
 # Replace with your API key and Custom Search Engine ID
-API_KEY = 'AIzaSyAjuhIk5Y2DR-xTtI5w9OrdSvhgdY5NDv8'
-CSE_ID = 'd7f48d52fc5d94c7d'
+API_KEY = ''
+CSE_ID = ''
 
 # Function to perform a Google search query
 def google_search(query, api_key, cse_id, num_results=10):
@@ -26,7 +26,7 @@ def search_companies(csv_file_path):
         
         for row in reader:
             company_name = row['Company Name']  # Replace with your actual CSV column name
-            query = f'site:linkedin.com "{company_name}" (intitle:president OR intitle:director OR intitle:CEO OR intitle:Managing Director OR intitle:Chief Executive OR intitle:Senior Manager OR intitle:Administrator OR intitle:Supervisor)'
+            query = f'site:linkedin.com/in "{company_name}" (intitle:clinical director OR intitle:medical director)' #intitle:CEO OR intitle:Managing Director OR intitle:Chief Executive OR intitle:Senior Manager OR intitle:clinical OR intitle:medical
             print(f"Searching for: {query}")
             
             result = google_search(query, API_KEY, CSE_ID)
@@ -51,4 +51,4 @@ def search_companies(csv_file_path):
     print(f"Search results saved to {output_file}")
 
 # Call the function with the path to your CSV file
-search_companies('/Users/mac/Desktop/LinkedinProject/top100companies.csv')
+search_companies('/Users/mac/Desktop/LinkedinProject/pharmaceutical_companies.csv')
